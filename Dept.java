@@ -1,1 +1,3 @@
-public class Hello{}
+public class Hello{
+	//测试
+}
