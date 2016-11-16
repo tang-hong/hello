@@ -1,4 +1,4 @@
 public class Dept{
 	Inteher id
-	String name
+	String name//姓名
 }
